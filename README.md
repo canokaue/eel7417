@@ -2,4 +2,4 @@
 
 ## Libs
 
-- random[https://docs.python.org/3/library/random.html]
+- [random](https://docs.python.org/3/library/random.html)
